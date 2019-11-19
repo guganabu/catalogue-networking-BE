@@ -1,0 +1,23 @@
+{
+  "name": "catalogue-be",
+  "version": "1.0.0",
+  "description": "Backend modules of catalogue networking application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guganabu/catalogue-network.git"
+  },
+  "author": "Gugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guganabu/catalogue-network/issues"
+  },
+  "homepage": "https://github.com/guganabu/catalogue-network#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  }
+}
